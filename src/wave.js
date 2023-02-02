@@ -15,7 +15,7 @@ function Apps() {
         <div className="App">
             <div className="head">Demo Project</div>
             <div className="center" ref={inputRef}>
-                <div data-cy="counter">''</div>
+                <div data-cy="counter"></div>
                 <div className="wave"></div>
                 <div className="wave"></div>
                 <div className="wave"></div>
