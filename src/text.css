@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(59, 190, 230);
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    height: 150px;
+    width: 80%;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    background-color: rgb(234, 235, 236);
+}
+
+#show {
+    height: 150px;
+    width: 80%;
+    margin: 1rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+}
